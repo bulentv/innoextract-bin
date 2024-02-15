@@ -1,0 +1,7 @@
+{
+  "name": "innoextract-bin",
+  "version": "0.1.0",
+  "description": "Innoextract Binary",
+  "main": "innoextract.exe",
+  "repository": "git@github.com:bulentv/innoextract-bin.git"
+}
